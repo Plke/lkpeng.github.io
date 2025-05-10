@@ -1,3 +1,10 @@
-<!-- 简单自我介绍,研究生，四川大学计算机学院 -->
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
 My name is Peng Likang. I am a graduate student in the College of Computer Science, [Si Chuan University](https://eecs.pku.edu.cn/).
