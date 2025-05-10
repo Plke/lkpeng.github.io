@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Peng Likang. I am a graduate student in the College of Computer Science, [Si Chuan University](https://eecs.pku.edu.cn/).
+My name is Peng Likang. I am a graduate student in the College of Computer Science, [Si Chuan University](https://www.scu.edu.cn/).
+
